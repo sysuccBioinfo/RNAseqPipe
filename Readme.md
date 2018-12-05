@@ -1,4 +1,6 @@
 
+# SYSUCC-RNAseqPipe
+
 ### Quick start  for reproductive analysis 
 
     nextflow -c nextflow.config run main.nf -resume -with-trace  -with-timeline timeline.html
